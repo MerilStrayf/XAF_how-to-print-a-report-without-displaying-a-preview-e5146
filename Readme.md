@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebInstantPrintReportController.cs](./CS/InstantPrintReportsV2Example.Module.Web/Controllers/WebInstantPrintReportController.cs) (VB: [WebInstantPrintReportController.vb](./VB/InstantPrintReportsV2Example.Module.Web/Controllers/WebInstantPrintReportController.vb))
+* [WinInstantPrintReportController.cs](./CS/InstantPrintReportsV2Example.Module.Win/Controllers/WinInstantPrintReportController.cs) (VB: [WinInstantPrintReportController.vb](./VB/InstantPrintReportsV2Example.Module.Win/Controllers/WinInstantPrintReportController.vb))
+* **[InstantPrintReportController.cs](./CS/InstantPrintReportsV2Example.Module/Controllers/InstantPrintReportController.cs) (VB: [InstantPrintReportController.vb](./VB/InstantPrintReportsV2Example.Module/Controllers/InstantPrintReportController.vb))**
+* [Global.asax.cs](./CS/InstantPrintReportsV2Example.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/InstantPrintReportsV2Example.Web/Global.asax.vb))
+* [InstantPrintReport.aspx.cs](./CS/InstantPrintReportsV2Example.Web/InstantPrintReport.aspx.cs) (VB: [InstantPrintReport.aspx.vb](./VB/InstantPrintReportsV2Example.Web/InstantPrintReport.aspx.vb))
+<!-- default file list end -->
 # How to: Print a report without displaying a preview
 
 
